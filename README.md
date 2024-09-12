@@ -27,5 +27,3 @@ Soy multifacético, me apasiona el mundo de la tecnología, la ciencia y la gast
 ⚡ Intereses
 
     Desarrollo web y tecnologías de backend
-    Inteligencia Artificial y Machine Learning
-    Mejorar la experiencia de usuario (UX/UI)

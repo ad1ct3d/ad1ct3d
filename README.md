@@ -16,12 +16,12 @@ Soy multifacético, me apasiona el mundo de la tecnología, la ciencia y la gast
 
 📫 Contacto
 
-    Email: tuemail@ejemplo.com
-    LinkedIn: TuPerfil
-    GitHub: TuGitHub
+    Email: danterossi99@gmail.com
+    LinkedIn: https://www.linkedin.com/in/danterossi99/
 
 💻 Proyectos Destacados
 
+    Aplicacion simple que usa datos de una API usando PHP = https://github.com/ad1ct3d/planetTracker
 
 
 ⚡ Intereses

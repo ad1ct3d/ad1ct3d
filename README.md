@@ -11,7 +11,7 @@ Soy multifacético, me apasiona el mundo de la tecnología, la ciencia y la gast
 📚 Actualmente aprendiendo
 
     Frameworks: React, Next.js
-    Backend: Node.js, Express
+    Backend: Node.js, Express, Nest, PostgreSQL, TypeORM
     Bases de Datos: PostgreSQL
 
 📫 Contacto
